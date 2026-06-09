@@ -10,7 +10,7 @@ $$ \min_x \max_y L(x,y) = f(x) + h(x) + \langle g(x), y \rangle - H^*(y) $$
 The core innovations include smoothed linearization at convex combination points and dual extrapolation in the mapping space.
 
 ## Requirements
-*   **MATLAB**
+*   **Matlab**
 *   **Python**
 
 ## Repository Structure
