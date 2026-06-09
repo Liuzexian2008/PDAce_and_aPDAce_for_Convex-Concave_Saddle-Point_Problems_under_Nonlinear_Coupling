@@ -1,4 +1,4 @@
-# PDAce and aPDAce for Convex-Concave Saddle-Point Problems under Nonlinear Coupling
+# PDAce and aPDAce for Convex-Concave Saddle-Point Problems with Nonlinear Coupling Term
 
 This repository contains the official MATLAB and Python implementation for the paper: **"A Novel Primal-Dual Algorithm with Convex Combination and Dual Extrapolation for Convex-Concave Saddle-Point Problems under Nonlinear Coupling"**.
 
